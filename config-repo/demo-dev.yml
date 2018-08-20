@@ -1,2 +1,4 @@
-dev.test.name=demo
-dev.test.version=1.0
+dev:
+  test:
+    name: demo
+    version: 1.0
